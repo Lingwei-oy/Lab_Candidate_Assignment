@@ -1,0 +1,17 @@
+      Item          |      Rating     |     Familiarity     |
+-------------------------------------------------------------
+Check the last      |        1        |          1          |
+little bit 	    |        2        |          2          |
+of the file         |        3        |          3          |
+name.               |        4        |          4          |
+                    |        5        |          5          |
+	            |        6        |          6          |
+	            |        7        |          7          |
+
+            Rating
+            1- strong dislike/hatred for item
+            7- strong preference/love for item
+            
+            Familiarity
+            1- has never seen item before
+            7- is very familiar with item
