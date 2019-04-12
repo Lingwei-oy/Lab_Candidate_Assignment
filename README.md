@@ -8,12 +8,18 @@ Your task is to create plots for this data in Matlab, R, and/or Python to summar
 2. Average response times (for participants choosing for themselves and choosing for their partners; no computer responses) for Choice 2 across all monetary (0.5, 1, 1.25, 1.5, 1.75) conditions.
 3. Average snack preference ratings between Task A, Task B (participants choosing for themselves), and Task B (participants choosing for their partners).
 
-*This must be written in either Matlab, R, and/or Python.*
+**Some things to note:**
 
-*You must show all of your work in a GitHub repository.*
+Participant ID's are encoded in the name of each file. Each participant has a TaskA and TaskB file associated with their ID.
 
-*Graphs should include error bars representing the standard error of the means.*
+Each trial is represented by one row in each file. TaskA contains 199 trials. TaskB contains 180 trials.
 
-*There must be clear documentation throughout your code.*
+This must be written in either Matlab, R, and/or Python.
+
+You must show all of your work in a GitHub repository.
+
+Graphs should include error bars representing the standard error of the means.
+
+There must be clear documentation throughout your code.
 
 Please email these completed charts to DVSNEUROECONLAB@gmail.com with the subject line "Lab Candidate Assignment" as well as the code(s) you used to plot your charts.
